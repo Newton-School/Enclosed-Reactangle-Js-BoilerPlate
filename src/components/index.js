@@ -6,8 +6,8 @@
 //      children: []
 //}
 
-function updateStructure(rec1,rec2){
+function check(rec1,rec2){
 	//write your code
 }
 
-module.exports = updateStructure;
+module.exports = check;
